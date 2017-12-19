@@ -216,7 +216,7 @@ for j in range(1000):
     # print sample( num=60, prime="ababab" )
     # print sample( num=60, prime="foo ba" )
     # print sample( num=60, prime="abcdab" )
-    print(sample( num=60, prime="I " ))
+    print(sample( num=400, prime="X:" ))
 
 summary_writer.close()
 
