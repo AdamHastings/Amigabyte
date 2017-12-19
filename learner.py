@@ -373,8 +373,7 @@ class Learner:
         self.snare_cluster = Cluster(self.instruments, self.ideal_hihat,
                                      self.snare_cluster)
 
-        arrayprint = lambda x: print('\n'.join(('{:4.2f} '*len(y)).format(
-            *y) for y in x))
+        # arrayprint = lambda x: print('\n'.join(('{:4.2f} '*len(y)).format(*y) for y in x))
         #print('===')
         # arrayprint(self.bass_cluster.fomm_pitch)
         #print('===')
