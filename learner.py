@@ -118,8 +118,7 @@ class Learner:
 
         clusters = temp
 
-        self.bass_cluster = next(filter(lambda x: self.ideal_bass in x,
-                                        clusters))
+        self.bass_cluster = next(filter(lambda x: self.ideal_bass in x, clusters))
         self.treb_cluster = next(filter(lambda x: self.ideal_treble in x,
                                         clusters))
         self.kick_cluster = next(filter(lambda x: self.ideal_kick in x,
@@ -261,14 +260,6 @@ class Learner:
         self.collected_song_samples = collected_song_samples
 
 
-
-       
-
-
-        # test_list = [1,2,3,4,1,5,6,7,8,9]
-        # print(test_list.count(1))
-        # print(test_list.count(2,3))
-
         # Assemble vectors
         instrument_vecs = np.array([instrument.vector for instrument in
                                     self.instruments])
@@ -283,83 +274,6 @@ class Learner:
         linkage = sch.linkage(instrument_vecs, method='ward')
         groups = self.make_groups(linkage)
 
-
-        # Let's try plotting here
-
-        # fig = plt.figure()
-        # ax = fig.add_subplot(111, projection='3d')
-
-        # x = []
-        # y = []
-        # z = []
-
-        # #FREQ2MIDI[self.std_freq], self.snr, self.unique_pitches
-
-        # for index in self.bass_cluster:
-        #     x.append(FREQ2MIDI[self.instruments[int(index)].std_freq])
-        #     y.append(self.instruments[int(index)].snr)
-        #     z.append(self.instruments[int(index)].unique_pitches)
-        # bplot = ax.scatter(x,y,z,c='r', marker = 'o', s = 50)
-
-        # a = []
-        # b = []
-        # c = []
-
-        # #FREQ2MIDI[self.std_freq], self.snr, self.unique_pitches
-
-        # for index in self.treb_cluster:
-        #     a.append(FREQ2MIDI[self.instruments[int(index)].std_freq])
-        #     b.append(self.instruments[int(index)].snr)
-        #     c.append(self.instruments[int(index)].unique_pitches)
-        # tplot = ax.scatter(a,b,c, c='b', marker = '^', s = 50)
-        
-        # a = []
-        # b = []
-        # c = []
-
-        # #FREQ2MIDI[self.std_freq], self.snr, self.unique_pitches
-
-        # for index in self.snare_cluster:
-        #     a.append(FREQ2MIDI[self.instruments[int(index)].std_freq])
-        #     b.append(self.instruments[int(index)].snr)
-        #     c.append(self.instruments[int(index)].unique_pitches)
-        # splot = ax.scatter(a,b,c, c='g', marker = '*', s = 50)
-
-        # a = []
-        # b = []
-        # c = []
-
-        # #FREQ2MIDI[self.std_freq], self.snr, self.unique_pitches
-
-        # for index in self.bassdrum_cluster:
-        #     a.append(FREQ2MIDI[self.instruments[int(index)].std_freq])
-        #     b.append(self.instruments[int(index)].snr)
-        #     c.append(self.instruments[int(index)].unique_pitches)
-        # bdplot = ax.scatter(a,b,c, c='y', marker = 'p', s = 50)
-
-        # ax.set_xlabel('Frequency',fontsize=20)
-        # ax.set_ylabel('Signal-to-Noise Ratio',fontsize=20)
-        # ax.set_zlabel('Unique Pitches',fontsize=20)
-        # ax.set_title('Instrument Clusters', fontsize=50)
-        # plt.legend((bplot,tplot,splot,bdplot), ('Bass','Treble','Snare','Bassdrum'))
-        # plt.show()
-
-        ########################################################
-        # Assemble the Samples
-
-        # basspick = choice(self.bass_cluster)
-        # bass_sample = self.instruments[int(basspick)].sample
-
-        # trebpick = choice(self.treb_cluster)
-        # treb_sample = self.instruments[int(trebpick)].sample
-
-        # lopick = choice(self.kick_cluster)
-        # kick_sample = self.instruments[int(lopick)].sample
-        # bdpitch = self.instruments[int(lopick)]._rounded_pitch_num
-
-        # hipick = choice(self.snare_cluster)
-        # snare_sample = self.instruments[int(hipick)].sample
-        # snpitch = self.instruments[int(hipick)]._rounded_pitch_num
 
         ########################################################
 
@@ -439,8 +353,8 @@ def main(files):
     linkage = learner.analyze()
     # print('\n'.join(('{:4.0f}, {:4.0f}, {:5.2f}, {:4.0f}'.format(*row)
     #                 for row in linkage)))
-    return learner, linkage  # TODO: analyze, etc.
+    # return learner, linkage  # TODO: analyze, etc.
 
 
 if __name__ == '__main__':
-    main(argv[1:] or glob('SimpleMods/*.mod'))
+    main(argv[1:] or glob('mods/mods/SimpleMods/*.mod'))
