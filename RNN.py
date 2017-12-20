@@ -14,7 +14,7 @@ from mygru import mygru
 # Global variables
 
 batch_size = 50 # 50 
-sequence_length = 50 # 50
+sequence_length = 50
 
 data_loader = TextLoader( ".", batch_size, sequence_length )
 
@@ -216,7 +216,7 @@ for j in range(1000):
     # print sample( num=60, prime="ababab" )
     # print sample( num=60, prime="foo ba" )
     # print sample( num=60, prime="abcdab" )
-    print(sample( num=400, prime="X:" ))
+    print(sample( num=600, prime="X:1\nT:" ))
 
 summary_writer.close()
 
