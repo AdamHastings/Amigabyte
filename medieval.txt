@@ -2,9 +2,6 @@
 
 X:1
 T:Brian Boru March
-C:Arrangement B. Rescher
-Z:Transcrit et/ou corrigé par B@D - 2006-11-16
-Z:Pour toute observation mailto:-@- M:6/8 L:1/8
 K:G
 V:1
 ed || 
@@ -46,8 +43,6 @@ Ace aec | GBd gdB | GBd gdB | Ace aec | Ace aec || Acd edc | BcB A3- | A3- A |]
 
 X:2
 T:Brian Boru's March
-R:march
-Z:id:hn-march-4
 M:6/8
 K:Ador
 ed|:cBA Aed|cBA Adc|BAG Gdc|BAG Ged|
@@ -63,10 +58,6 @@ cBA aAA|cBA aAA|Acd e2d|1 cAA A2B:|2 cAA A2||
 
 X:3
 T:Douce dame jolie
-C:Guillaume de Machaut
-R:Chanson
-Z:Transcrit et/ou corrigé par B@D - 2006-10-17
-Z:Pour toute observation mailto:-@- M:2/4 L:1/8
 P:ABA
 K:F
 [P:A]d2 | d2G2 | F2G2 | BA2G | A2A2 | G2d2 | dc2B | BA2G | !breath!A2d2 |
@@ -81,7 +72,6 @@ Gal en fa
 
 X:4
 T:Kalenda Maya
-C:Raimbault de Vaqueiras
 Q:"Bien rythmé et souple " 3/4=63
 K:G
 V:1
@@ -102,8 +92,6 @@ fzf | fzf | fff | fzf | fff | fzf | fff | fzz | fzz | fzz | fzz | ffz |]
 X:5
 T:La Manfredina
 U: M = !tenuto!
-Z:Transcrit et/ou corrigé par B@D - 2006-09-19
-Z:Pour toute observation mailto:-@- M: K:G
 e2f2 (g2>f2) Mg2Ma2 (gfef) d8 |1 e2f2 (agfg) (e2g2) (fe)(fd) e8 :|2 (e2d2) (dcBc) (BAcB) (BA)(BG) A8 |:
 (G2A2) (B2>A2) MB2Mc2 (d2e2) (c2>B2) Mc2(cB) (cdcd) |1 Me3d Me2Mf2 (d2e2) (A3G) MA2MA2 :|2 (edcB) (BA)(cB) (BABG) A8 |:
 Mc2Md2 (e2>d2) (e2f2) Me2Md2 (dcBc) A4 |1 MB2Mc2 (d3c) (d2ed) (cd)(Bc) d4 d4 :|2 Me2Md2 (dcBc) (BAcB) (BA)(BG) A8 |]
@@ -119,9 +107,6 @@ zzcd (ed)(ef) (efed) (dc)(Bc) |1 A2Bc (dc)(de) (dcBc) d2d2 :|2 zz (ed) (dc)(Bc) 
 
 X:6
 T:La roza enflores
-C:Chant judéo-espagnol
-Z:Transcrit et/ou corrigé par B@D - 2006-10-18
-Z:Pour toute observation mailto:-@- M: L:1/8
 K:C
 G2 | c3d (_ed) ce | (dc) (B^G) !breath!=G2 G2 | c3d !1!_e2 ee&x4 !2!_ed ce | !breath!d6 d_e | 
 f_e df (ed) ce | (dc) (B^G) !breath!=G2 G2 | B2 ^G=G ^FG ^GB | (G^G) Bc !breath!d2 d_e | 
@@ -132,7 +117,6 @@ Gal ut grave en intérieur, ut aigu en extérieur
 
 X:7
 T:Pastourelle
-Z:Pour toute observation mailto:-@- M:3/4 L:1/4
 Q:3/4=76
 K:Am
 V:1
@@ -149,8 +133,6 @@ BzB | Bzz | BzB | BzB | Bzz |: zzB | zzB | zzB | Bzz | BzB | BzB | BzB | Bzz :|
 
 X:8
 T:Salterello
-Z:Transcrit et/ou corrigé par B@D - 2006-09-19
-Z:Pour toute observation mailto:-@- M:none L:1/8
 K:G
 P:Prima pars
 cud veA eA eA e2 udB/c/ d/c/B/c/ vAue A2 AB c/B/c/A/ (Gd) G2 A2 d>B B/c/B/A/ |1 B/A/G/A/ B2F2B2 :|2 (B/A/B/G/) A2e2A4 ||
@@ -171,7 +153,6 @@ T:Salterello
 L:1/8
 M:6/8
 N:Anon Italian
-Z:Andy Hornby
 K:F
 d3d2c|d3dcB|A2G G2^F|G3G2d|
 d2c d2e|fed c2f|e2d d2^c|c3c3|]
@@ -185,8 +166,6 @@ B2G B2c|d2d dcB|A2G G2^F|G3G3|]
 
 X:10
 T:Saltarello
-Z:Transcrit et/ou corrigé par B@D - 2006-09-22
-Z:Pour toute observation mailto:-@- M:2/4 L:1/16
 K:C
 f2g2 | aga_b agab | a4 f2g2 | a2_ba gfef | d2^c2 B2^c2 |
 d^cBc d2B2 | ^c4 d^cBc | d2e2 gfef | d2=c2 gfef | g2a2 c'_bag |1
@@ -214,8 +193,6 @@ Galoubet en Fa
 
 X:11
 T:Saltarello
-Z:Transcrit et/ou corrigé par B@D - 2006-09-22
-Z:Pour toute observation mailto:-@- M:2/4 L:1/16
 K:Bb
 e2f2 | gfg_a gfga | g4 e2f2 | g2_ag fede | c2=B2 A2=B2 |
 c=BAB c2A2 | =B4 c=BAB | c2d2 fede | c2_B2 fede | f2g2 b_agf |1
@@ -242,10 +219,6 @@ g4 fede | c=BA=B c2G2 | c4 :|2 g4 fedc | cBcA B2F2 | B4 |]
 
 X:12
 T:Stella splendens
-C:Livre Vermeil de Montserrat (XIVème siècle)
-R:Livre
-Z:Transcrit et/ou corrigé par B@D - 2005-03-27
-Z:Pour toute observation mailto:-@- M:2/2 L:1/4
 Q:1/4=110
 K:C
 V:1
@@ -263,10 +236,6 @@ D2 DF|AD C2|F2 GA|DC GA|c4|   D2 DF|AD C2|F2 GA|DC FG|A4|]
 
 X:13
 T:Stella splendens
-C:Livre Vermeil de Montserrat (XIVème siècle)
-R:Livre
-Z:Transcrit et/ou corrigé par B@D - 2005-03-27
-Z:Pour toute observation mailto:-@- M:2/2 L:1/4
 Q:1/4=110
 K:G
 V:1
@@ -284,10 +253,6 @@ A2 Ac|eA G2|c2 de|AG de|g4|   A2 Ac|eA G2|c2 de|AG cd|e4|]
 
 X:14
 T:Stella splendens
-C:Livre Vermeil de Montserrat (XIVème siècle)
-R:Livre
-Z:Transcrit et/ou corrigé par B@D - 2005-03-27
-Z:Pour toute observation mailto:-@- M:2/2 L:1/4
 Q:1/4=110
 K:F
 V:1
@@ -305,8 +270,6 @@ G2 GB|dG F2|B2 cd|GF cd|f4|   G2 GB|dG F2|B2 cd|GF Bc|d4|]
 
 X:15
 T:Trotto
-Z:Transcrit et/ou corrigé par B@D - 2006-09-19
-Z:Pour toute observation mailto:-@- M: K:G
 P:Prima pars
 A2A (eA)e e2d (cB)c (AG)A (BA)B G3 A2B |1 (cB)A B2F B3 z3 :|2 (d2e) (d2c) (BA)(B G)A2 ||
 P:Sechunda pars
@@ -322,8 +285,6 @@ P:Quinta pars
 
 X:16
 T:Danse
-Z:Transcrit et/ou corrigé par B@D - 2006-10-18
-Z:Pour toute observation mailto:-@- M:3/4 L:1/4
 K:F
 P:I
 c2c | c2 B/LA/ | B3 | B2z | d2d | d2c/LB/ | c3 | c2z |1
@@ -341,8 +302,6 @@ F2G | B2B | cB/LA/B | B2z :|2 F2G | B2A | G2A | G2z ||
 
 X:17
 T:Danse
-Z:Transcrit et/ou corrigé par B@D - 2006-10-18
-Z:Pour toute observation mailto:-@- M:3/4 L:1/4
 K:Bb
 P:I
 f2f | f2 e/Ld/ | e3 | e2z | g2g | g2f/Le/ | f3 | f2z |1
@@ -360,10 +319,6 @@ B2c | e2e | fe/Ld/e | e2z :|2 B2c | e2d | c2d | c2z ||
 
 X:18
 T:Splendens ceptigera
-C:Livre Vermeil de Montserrat (XIVème siècle)
-R:Livre
-Z:Transcrit et/ou corrigé par B@D - 2005-03-13
-Z:Pour toute observation mailto:-@- M:4/4 L:1/4
 K:Am
 V:1
 DEF2 |: DEC2 |DEF2 | AGFF | ABc2 | AGF2 |z4 |DEF2 :|
@@ -378,10 +333,6 @@ z4 | z4 | DEF2 | DEC2 |DEF2 | AGFF | ABc2 | AGF2 |
 
 X:19
 T:Laudemus Virginem
-C:Livre Vermeil de Montserrat (XIVème siècle)
-R:Livre
-Z:Transcrit et/ou corrigé par B@D - 2005-03-13
-Z:Pour toute observation mailto:-@- M:4/4 L:1/4
 K:Am
 V:1
 FED2 |: FGA2 | cGA2 | FED2 | FGA2 | cGA2!fine!|z4 | FED2 :|
@@ -397,10 +348,7 @@ z4 | z4 | FED2 | FGA2 | cGA2 | FED2 | FGA2 | cGA2 |
 
 X:20
 T:Estampie Reale
-C:Anonyme (XIIe siècle)
 S:Cahier n°2 de l'anthologie de la musique provençale (Fédération Folklorique Méditerranéenne)
-Z:Transcrit et/ou corrigé par B@D - 2005-04-24
-Z:Pour toute observation mailto:-@- R:Estampie M:3/4
 L:1/4
 Q:3/4=72
 K:C
@@ -419,9 +367,6 @@ T:Estampie Reale
 T:Danse royale
 U: M = !tenuto!	
 U: H = !breath!
-C:Anonyme (XIIIe siècle)
-Z:Transcrit et/ou corrigé par B@D - 2005-04-24
-Z:Pour toute observation mailto:-@- M:3/4 L:1/4
 Q:"A un temps, bien rythmé  " 3/4=80
 K:G
 V:1
@@ -446,8 +391,6 @@ f2z || (G2A) | (c2d) | (e/d/) e/c/ d | Me2Me | (e/d/) e/d/ (c/B/) | Mc2Mc | (dc/
 X:22
 T:Estampie
 T:Trotto
-Z:Transcrit et/ou corrigé par B@D - 2005-03-04
-Z:Pour toute observation mailto:-@- M:6/8 L:1/8
 Q:3/8=126
 K:G
 A2A eAe | e2d cBc | AGA BAB | G3 A2B | cBA B2F | B3 z2z | A2A eAe | e2d cBc |
@@ -462,8 +405,6 @@ G3 A2B | cBA B2F | B3z2z | A2A eAe | e2d cBc | AGA BAB | G3A2B | d2e d2c | BAB G
 
 X:23
 T:Estampie
-R:0Estampie
-Z:Transcrit et/ou corrigé par B@D - 2007-08-23. Pour toute observation mailto:-@- %Z:Complété par Ungaresca, par les Musiciens de Provence (?) cela donnait : Musique de Jongleur ... M:6/8
 K:C
 c2B c2d | e3 e2f | g3 g2f | e3 e3 :: 
 e2g e2g | f3 d2e | f2d e2c | d3 B2c |1 d2d B2c | d3 d3 :|2 d2e c2B | c6 |]
@@ -474,11 +415,6 @@ e2g e2g | f3 d2e | f2d e2c | d3 B2c |1 d2d B2c | d3 d3 :|2 d2e c2B | c6 |]
 
 X:24
 T: Ungaresca
-R:0Estampie
-C: Pierre Phalèse
-C: 1583
-Z:Transcrit et/ou corrigé par B@D - 2007-08-23
-Z:Pour toute observation mailto:-@- M: C| L: 1/4
 K:C
 V: 1
 Q: 1/2=132
@@ -497,7 +433,6 @@ ee/ed//e//|fe/ dc/|ee/ ed//e//|fe/ df/|ec/ dc//=B//|c3/2 c3/2:|
 
 X:25
 T:Plang sur la mort de Richard Coeur de Lion
-C:Gaucelm Faidit
 K:Em
 ee(e/d/) | (dc)(c/d/) | (e=f)e | d(dc) | (BA)z | ed(d/c/) | (BA)A/B/ |
 cB(B//A//G/) | A2(A/B/) | B2z | B(cd) | (c/B/)AB | c2B//A//G/ | A2A/G/ |
@@ -513,9 +448,6 @@ GFz | ABB//A//G/ | G2B | d(de) | dcB | (c/B/)Az | eed |
 
 X:26
 T:Reis Glorios
-C:Guiraut de Borneilh (1220)
-Z:Transcrit et/ou corrigé par B@D - 2006-11-16
-Z:Pour toute observation mailto:-@- M:3/4 L:1/4
 K:G
 A | A2e | e2e/f/ | g(f/e/f) | d(e/f/g) | fe2 | zzA | A2e | e2e/f/ | 
 g(f/e/f) | d (e/f/g) | fe2 | ze/d/e/=f/ | e2d/c/ | B2B | d2e | A2B |
@@ -528,9 +460,6 @@ A2B | c(d/e/d) | c/B/A/B/ c | BA2 |]
 
 X:27
 T:A Virgen, que de Deus (Cantiga 322)
-C:Las Cantigas de Santa Maria, 1252
-C:Anon., Alfonso X el sabio (1221-1284)
-R:Cantigas
 M:C|
 L:1/4
 K:F
@@ -582,9 +511,6 @@ D,2D,2 | D,2D,2 | D,2D,2 | D,2D,2 | D,2D,2 | D,2D,2 |]
 
 X:28
 T:A Virgen, que de Deus (Cantiga 322)
-C:Las Cantigas de Santa Maria, 1252
-C:Anon., Alfonso X el sabio (1221-1284)
-R:Cantigas
 M:C|
 L:1/4
 K:C
@@ -636,9 +562,6 @@ A,2A,2 | A,2A,2 | A,2A,2 | A,2A,2 | A,2A,2 | A,2A,2 |]
 
 X:29
 T:A Virgen mui groriosa (Cantiga 42)
-C:Las Cantigas de Santa Maria, 1252
-C:Anon., Alfonso X el sabio (1221-1284)
-R:Cantigas
 K:C
 V:1
 G | d2d | dcA | B2c | BAG | B2B/A/ | G2F | ABA- | A2A |
@@ -669,9 +592,6 @@ G,D,2 | D,/E,/F,D, | G,D,A, | G,2D, | G,2D,/E,/ | G,2D, | F,D,2 | G,,2 |]
 
 X:30
 T:A Virgen mui groriosa (Cantiga 42)
-C:Las Cantigas de Santa Maria, 1252
-C:Anon., Alfonso X el sabio (1221-1284)
-R:Cantigas
 K:G
 V:1
 d | a2a | age | f2g | fed | f2f/e/ | d2c | efe- | e2e |
@@ -702,10 +622,6 @@ DA,2 | A,/B,/CA, | DA,E | D2A, | D2A,/B,/ | D2A, | CA,2 | D,2 |]
 
 X:31
 T:Quen a omagen da Virgen (Cantiga 353)
-C:Las Cantigas de Santa Maria, 1252
-C:Alphonso X, El Sabio, (1221-1284)
-C:arr. Steve Hendricks
-R:Cantigas
 M:C
 L:1/4
 K:C
@@ -741,10 +657,6 @@ D,2D,D,/D,/ | D,/E,/ F,/E,/ D, D,/E,/ | F,D,D,>E, | F,>E,D,A,, | D,2 |]
 
 X:32
 T:Quen a omagen da Virgen (Cantiga 353)
-C:Las Cantigas de Santa Maria, 1252
-C:Alphonso X, El Sabio, (1221-1284)
-C:arr. Steve Hendricks
-R:Cantigas
 M:C
 L:1/4
 K:G
@@ -780,11 +692,6 @@ A,2A,A,/A,/ | A,/B,/ C/B,/ A, A,/B,/ | CA,A,>B, | C>B,A,E, | A,2 |]
 
 X:33
 T:A que por gran fremosura (Cantiga 384)
-C:Las Cantigas de Santa Maria, 1252
-C:Alphonso X, El Sabio, (1221-1284)
-R:Cantigas
-Z:Transcrit et/ou corrigé par B@D - 2007-08-23
-Z:Pour toute observation mailto:-@- M:3/2 L:1/4
 K:C
 G>AF G2A | BcB BA2 | A>AG F2G | A2F D2D |
 G>AF G2A | BcB BA2 | A>AG F2G | (3BAGF G2G |:
@@ -798,11 +705,6 @@ G>AF G2A | BcB BA2 | A>AG F2G | (3BAGF G2G |]
 
 X:34
 T:A que por gran fremosura (Cantiga 384)
-C:Las Cantigas de Santa Maria, 1252
-C:Alphonso X, El Sabio, (1221-1284)
-R:Cantigas
-Z:Transcrit et/ou corrigé par B@D - 2007-08-23
-Z:Pour toute observation mailto:-@- M:3/2 L:1/4
 K:F
 c>dB c2d | efe ed2 | d>dc B2c | d2B G2G |
 c>dB c2d | efe ed2 | d>dc B2c | (3edcB c2c |:
@@ -816,10 +718,6 @@ c>dB c2d | efe ed2 | d>dc B2c | (3edcB c2c |]
 
 X:35
 T:Se ome fezer (Cantiga 207)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-C:arr Steve Hendricks
-R:Cantigas
 M:C|
 L:1/4
 K:F
@@ -843,10 +741,6 @@ F,2F,2 | C,2C,/D,/F, | F,2C,2 | F,2C,2 :| F,4 |]
 
 X:36
 T:Se ome fezer (Cantiga 207)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-C:arr Steve Hendricks
-R:Cantigas
 M:C|
 L:1/4
 K:G
@@ -870,9 +764,6 @@ G,2G,2 | D,2D,/E,/G, | G,2D,2 | G,2D,2 :| G,4 |]
 
 X:37
 T:Douce dame jolie
-R:Virelai
-C:Guillaume de Machaut (+1377)
-C:arr. Steven Hendricks
 M:C|
 L:1/4
 K:Bb
@@ -908,9 +799,6 @@ C2G,2 | C2F,2 | B,CG,2 | C3 :|
 
 X:38
 T:Douce dame jolie
-R:Virelai
-C:Guillaume de Machaut (+1377)
-C:arr. Steven Hendricks
 M:C|
 L:1/4
 K:F
@@ -946,9 +834,6 @@ G,2D,2 | G,2C,2 | F,G,D,2 | G,3 :|
 
 X:39
 T:Douce dame jolie
-R:Virelai
-C:Guillaume de Machaut (+1377)
-C:arr. Steven Hendricks
 M:C|
 L:1/4
 K:G
@@ -984,7 +869,6 @@ A,2E,2 | A,2D,2 | G,A,E,2 | A,3 :|
 
 X:40
 T:Ductie
-C:Anonyme
 Q:"Andante" 3/8=72
 K:F
 V:1
@@ -1014,7 +898,6 @@ G2A (F2A) | G3z3 | B2c (B2G) | A3 (A2B) | G3 (A2B) | c6 :|
 
 X:41
 T:Ductie
-C:Anon. 
 L:1/8
 K:C
 V:1
@@ -1052,7 +935,6 @@ FGA G2A | F2E D2z | FGA G2A | FLED C2z |]
 
 X:42
 T:Ductie
-C:Anon. 
 L:1/8
 K:D
 V:1
@@ -1090,8 +972,6 @@ GAB A2B | G2F E2z | GAB A2B | GLFE D2z |]
 
 X:43
 T:Ductie
-R:Danse royale
-C:Trad.
 H:Danse royale - Moyen Age
 N:to be played ABAC - DBDC - EBEC
 M:3/4
@@ -1110,8 +990,6 @@ F2G|A2A|G2A|D2 z|F2G|F/2E/2FD|E3|E2 z||
 
 X:44
 T:Ductie
-R:Danse royale
-C:Trad.
 H:Danse royale - Moyen Age
 N:to be played ABAC - DBDC - EBEC
 M:3/4
@@ -1132,7 +1010,6 @@ X:45
 T:Ductia
 L:1/8
 M:6/8
-Z:Andy Hornby
 K:D
 D2F A2G|E2G F3|D2F A2G|E2F D3:|
 d2c/2B/2 A2c|e2B c3|d2c/2B/2 A2G|B2F A2B|
@@ -1153,7 +1030,6 @@ X:46
 T:Ductia
 L:1/8
 M:6/8
-Z:Andy Hornby
 K:G
 G2B d2c|A2c B3|G2B d2c|A2B G3:|
 g2f/2e/2 d2f|a2e f3|g2f/2e/2 d2c|e2B d2e|
@@ -1172,7 +1048,6 @@ c'ba gge|f2g aab|c'ba gfd|e2f g3|]
 
 X:47
 T:Motet
-C:Anonyme
 K:Gm
 V:1
 d2c d2e | d3c3 | d2e f2e | d3 d3 | d2c d2e | d3c3 | 
@@ -1194,7 +1069,6 @@ B6 | A3F3 | G6- | G6- | G6- | G6- | G6- | G6- |]
 
 X:48
 T:Motet
-C:Anonyme
 Q:"Mouvement de danse"
 K:C
 V:1
@@ -1232,7 +1106,6 @@ g2f gz g | g2e d/e/f/g/a/b/ | g>gf/e/ gz G :| g>gf/e/ gzz |]
 
 X:50
 T:Mais qu'il vous legne
-C:Jabomy (Jacob de Senleches)
 Q:"Ballade"
 L:1/8
 K:C
@@ -1253,7 +1126,6 @@ D2C4 | ABc2B2 | cB-B2A2 | G2G2>B2 | AGF2E2 | HD6 :| A2E2D2 | HC6 |]
 
 X:51
 T:Et c'est assez pour m'esjouir
-C:Jacques Vide
 K:F
 V:1
 G2BBA2 | G2dde2 | fa2g2^f | g4zg | g_b2a2g | a2gfe2 | d4zf | g2f2e2 |
@@ -1270,8 +1142,6 @@ g2ced2 | c2B2A2 | G6 | d4c2 | B2-B2>c2 | d2gg^f2 | g4z^f | gf2ed2 | B4A2 | HG6 |
 
 X:52
 T:Israhel es tu rex
-C:Gilles Binchois
-C:(1400 ? 1460)
 M:3/4
 L:1/8
 K:Am
@@ -1296,8 +1166,6 @@ a2gg2^f | g2z2z2 | e2f4 | e2(gf)d2 | e2d4 | a2g2f2 | e2(dc)B2 | HA6 |]
 
 X:53
 T:Israhel es tu rex
-C:Gilles Binchois
-C:(1400 ? 1460)
 M:3/4
 L:1/8
 K:Em
@@ -1325,7 +1193,6 @@ T:Edi beo thu hevene quene
 L:1/8
 M:3/4
 N:Anon English C13
-Z:Andy Hornby
 K:G
 G2|G4d2|d2c2B2|A4e2|d4G2|A2B2c2|B2A2G2|F2E2F2|G4:|
 G2|c4c2|B2A2G2|F2E2F2|G4G2|c4c2|B2A2G2|F2E2F2|
@@ -1341,7 +1208,6 @@ L:1/8
 M:3/4
 N: Often played with La Rotta
 N:Anon C14 Italian
-Z:Andy Hornby
 K:D
 Bc|d3/2c/2 de f/2e/2d/2c/2|B3c/2d/2 ee|
 d3/2c/2 d/2c/2d/2e/2 f/2e/2d/2c/2|B3/2A/2 B/2A/2B/2c/2 B/2c/2B/2A/2|
@@ -1360,8 +1226,6 @@ E2FG A/2B/2A/2G/2|F3G/2F/2 E/2D/2E|F4:|2E2FG B/2A/2G/2F/2|E2FEF/2E/2D|E4|]
 
 X:56
 T:Edi be thu
-Z:Transcrit et/ou corrigé par B@D - 2005-03-27
-Z:Pour toute observation mailto:-@- M:6/8 L:1/8
 Q:3/8=63
 K:F
 V:1 name=Bariton
@@ -1381,8 +1245,6 @@ A2A (AG)F | G2G A2A | G2G F2F | (GA)G F3 |]
 
 X:57
 T:Edi be thu
-Z:Transcrit et/ou corrigé par B@D - 2005-03-27
-Z:Pour toute observation mailto:-@- M:6/8 L:1/8
 Q:3/8=63
 K:C
 V:1 name=Bariton
@@ -1402,7 +1264,6 @@ e2e (ed)c | d2d e2e | d2d c2c | (de)d c3 |]
 
 X:58
 T:Canso de la comtesse de Die
-C:Comtesse de Die
 M:3/8
 L:1/8
 K:Am
@@ -1417,8 +1278,6 @@ cde | c/B/AG | ABc | B/A/G Az | z2 :|
 
 X:59
 T:Bache bene venies
-Z:Transcrit et/ou corrigé par B@D - 2005-03-15
-Z:Pour toute observation mailto:-@- M: L:1/4
 K:F
 FAcc | cBA2 | ccdB | c2A2 ||
 FGAG | BA(A/G/A) | ABGF | G2F2 ||
@@ -1430,8 +1289,6 @@ B,DFFGAFF | FG_EGF2F2 |]
 
 X:60
 T:Bache bene venies
-Z:Transcrit et/ou corrigé par B@D - 2005-03-15
-Z:Pour toute observation mailto:-@- M: L:1/4
 K:C
 cegg | gfe2 | ggaf | g2e2 ||
 cded | fe(e/d/e) | efdc | d2c2 ||
@@ -1444,7 +1301,6 @@ FAccdecc | cd_Bdc2c2 |]
 
 X:61
 T:Dame mon cuer
-C:Guillaume de Machaut
 K:Am
 V:1
 Bc2 | e/d/ec | d/c_B/ A | Gz2 |
@@ -1469,7 +1325,6 @@ F3 | F>GA | G>FG | A3 :|
 
 X:62
 T:Dame mon cuer
-C:Guillaume de Machaut
 K:Dm
 V:1
 ef2 | a/g/af | g/f_e/ d | cz2 |
@@ -1494,7 +1349,6 @@ B3 | B>cd | c>Bc | d3 :|
 
 X:63
 T:Dame mon cuer
-C:Guillaume de Machaut
 K:Em
 V:1
 fg2 | b/a/bg | a/g=f/ e | dz2 |
@@ -1519,7 +1373,6 @@ c3 | c>de | d>cd | e3 :|
 
 X:64
 T:Belle Doette
-R:Chanson de toile
 M:6/8
 K:Am
 A/B/c/B/A A/G/ GA | cc2de2 | e/d/ef (3e/d/c/ de | e3 ez2 |
@@ -1537,7 +1390,6 @@ d/c/ B/A/G | B/d/e/d/B c B/A/B/A/ | (G3 A) z2 |]
 
 X:65
 T:Ad mortem festinamus
-C:Llibre Vermeil de Montserrat
 L:1/4
 K:C
 V:1
@@ -1559,7 +1411,6 @@ F3 | C3 | G3 | C3 | F3 | C3 | G3 | C3 |]
 
 X:66
 T:Ad mortem festinamus
-C:Llibre Vermeil de Montserrat
 L:1/4
 K:G
 V:1
@@ -1581,7 +1432,6 @@ c3 | G3 | d3 | G3 | c3 | G3 | d3 | G3 |]
 
 X:67
 T:Alle, psallite cum luya
-Z:Pour toute observation mailto:-@- M:6/8 L:1/8
 K:C
 V:1
 d3c3 | d2c B2c | d3 (c/B/)A2 | A3 z2z | A3 G3 | A3 z2z | d3 (c2d) |
@@ -1605,12 +1455,7 @@ F2G E2F | D2C E2C | D3 z2z | D3 F3 | E6 | HD6 :|
 
 X:68
 T:Santa Maria amar (Cantiga 7)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
 S:H. Anglès, La Musica de las Cantigas de Santa Maria (Barcelona, 1964), Vol. I, fols. 36v-37.
-Z:Transcrit et/ou corrigé par B@D - 2005-03-12
-Z:Pour toute observation mailto:-@- M:3/4 L:1/4
 K:C
 Ae2 | de2 | (fe)d | e2z | eg2 | e2f | e/d/ (ed) | (cd) B |
 c(cd) | ee2 | (fed) | e2z | Ac2 | de2 | (fe)d | e2z |
@@ -1624,11 +1469,6 @@ e/d/(ed) | (cd)B | c(cd) | ee2 | (fed) | e3 |]
 
 X:69
 T:Santa Maria, Strela Do Dia (Cantiga 100)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
-Z:Transcrit et/ou corrigé par B@D - 2005-03-24
-Z:Pour toute observation mailto:-@- M:C| L:1/4
 K:G
 V:1
 [P:Refrain]e2dc | B2Bc | d2e2 | A2A2 | e2dc |
@@ -1650,10 +1490,6 @@ ge g/g/ e | ge g/g/ e | ge g/g/ e |
 
 X:70
 T:Pagar ben podo (Cantiga 25)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
-R:Allemande ou Branle double
 Q:1/4=120     %Tempo
 M:4/4     %Meter
 L:1/8     %
@@ -1667,11 +1503,6 @@ B2 Bc (d2 cd) |A2 GA (G2 F2) |A2 Bc (d2 cB) |BA (GA G4) :|B2 Bc (d3 c) |d2 ed (d
 
 X:71
 T:Da que Deus mamo (Cantiga 77)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
-Z:Transcrit et/ou corrigé par B@D - 2005-03-26
-Z:Pour toute observation mailto:-@- M:2 L:1/8
 K:Em
 P:A
 f>e f>g | a2d2 | f>g (3fed | c3z |{d}f>e f>g | a2d2 | f>e (3dec | d2-dz :|
@@ -1683,9 +1514,6 @@ f>g a>g | (a/g/f/e/) d>c | f>e d>c | f2 fz | f>g a>g | (a/g/f/e/) d>c | f>e d>c 
 
 X:72
 T:Strella do Dia (Cantiga 100)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
 N:Remarks :     %Tune infos
 Q:1/4=120     %Tempo
 M:4/4     %Meter
@@ -1700,9 +1528,6 @@ c2 d2 e3 d |fe de c2 c2 |c2 d2 e3 d |fe dc d2 d2 |e2 f2 g3 e |fg fd e2 e2 |e2 e2
 
 X:73
 T:Como somos per consello (Cantiga 119)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
 N:Remarks :     %Tune infos
 Q:1/4=120     %Tempo
 M:6/8     %Meter
@@ -1717,9 +1542,6 @@ d3 c2e f2e | d2c _B2A G2A | B6 z3 | d3 c2e f2e | d2c _B2A G2F | G6 z3 :|
 
 X:74
 T:Como somos per consello (Cantiga 119)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
 N:Remarks :     %Tune infos
 Q:1/4=120     %Tempo
 M:6/8     %Meter
@@ -1734,11 +1556,6 @@ e3 d2f g2f | e2d =c2B A2B | c6 z3 | e3 d2f g2f | e2d =c2B A2G | A6 z3 :|
 
 X:75
 T:Esta é de loor de Santa Maria (Cantiga 200)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
-Z:Transcrit et/ou corrigé par B@D - 2005-03-27
-Z:Pour toute observation mailto:-@- M:3(4) L:1/4
 K:G
 "Bfrain"G2 A | c2 (cd) | e2 (dc) | (e2 A2) | 
 c2 d | c2 (BA) | (cBA) : (AG) | A3 || g2 a |
@@ -1753,11 +1570,6 @@ c2 (cd) | e2 (dc) | (e2!breath!A2) | c2 d | c2 (BA) | (cBA) : (AG) | A3 |]
 
 X:76
 T:Quen a Deus e a sa Madre (Cantiga 318)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
-Z:Transcrit et/ou corrigé par B@D - 2005-03-27
-Z:Pour toute observation mailto:-@- M: K:C
 P:A
 G | G A c | c2 d/c/ | d2e | e d c |1 e d c/B/ | A2G | A2c | B A :|2 e d c/B/ | A B G | A2 c/B/ | A2!fine! ::
 P:B
@@ -1769,11 +1581,6 @@ G | G A c | c2 d | d2 e | e2 e | ^f2 g/f/ | e2 d | e d c/B/ | A2 :|
 
 X:77
 T:Porque ben Santa Maria (Cantigas 327)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
-Z:Transcrit et/ou corrigé par B@D - 2005-03-27
-Z:Pour toute observation mailto:-@- M: L:1
 K:F
 P:A
 B2 d2 (3dcB BA G2 |1,3 BA G2F2 :|2 FG B2 z2 :|4 BA G2z2 |: [P:B] A2B2c2 (3BAG |1 A2 B2 c2c2 :|2 A2 B2 G2 z2 :| 
@@ -1784,13 +1591,7 @@ B2 d2 (3dcB BA G2 |1,3 BA G2F2 :|2 FG B2 z2 :|4 BA G2z2 |: [P:B] A2B2c2 (3BAG |1
 
 X:78
 T:Por my gran fremosura (Cantiga 384)
-C:Las Cantigas de Santa Maria
-C:Alphonso X, El Sabio (1221-1284)
-R:Cantigas
-R:Branle de Poitou
 Q:1/4=120     %Tempo
-Z:Transcrit et/ou corrigé par B@D - 2005-07-23
-Z:Pour toute observation mailto:-@- M:12/8     %Meter L:1/8     %
 K:C
 G |c3/2c/_B c2 d _e3/2f/e e d2 |d2 c _B2 c ddB G2 G |c3/2c/_B c2 d _e3/2f/e e d2 |d2 c _B2 c ddB c2 z |:
 g3/2g/f _e3/2f/e dcd e2 c |g3/2g/f _e3/2f/e ded c2 c :|
@@ -1801,7 +1602,6 @@ g3/2g/f _e3/2f/e dcd e2 c |g3/2g/f _e3/2f/e ded c2 c :|
 
 X:79
 T:Cuncti simus concanentes
-C:Llibre Vermeil de Montserrat
 L:1/4
 K:F
 V:1
@@ -1821,7 +1621,6 @@ G3 | D3 | G3 | D3 | G,3 | D3 | D3 | G,3 :|
 
 X:80
 T:Cuncti simus concanentes
-C:Llibre Vermeil de Montserrat
 L:1/4
 K:C
 V:1
@@ -1842,10 +1641,6 @@ d3 | A3 | d3 | A3 | D3 | A3 | A3 | D3 :|
 X:81
 T:Inperayritz de la ciutat joyosa
 T:Verges ses
-C:Livre Vermeil de Montserrat (XIVème siècle)
-R:Livre
-Z:Transcrit et/ou corrigé par B@D - 2005-03-06
-Z:Pour toute observation mailto:-@- M:6/4 L:1/4
 Q:3/4=90
 K:C
 V:1
@@ -1874,10 +1669,6 @@ F3G2G | !breath!A3A3 | G2GG2G | G2F2E2 | D6 |]
 X:82
 T:Inperayritz de la ciutat joyosa
 T:Verges ses
-C:Livre Vermeil de Montserrat (XIVème siècle)
-R:Livre
-Z:Transcrit et/ou corrigé par B@D - 2005-03-06
-Z:Pour toute observation mailto:-@- M:6/4 L:1/4
 Q:3/4=90
 K:G
 V:1
@@ -1906,10 +1697,6 @@ c3d2d | !breath!e3e3 | d2dd2d | d2c2B2 | A6 |]
 X:83
 T:Inperayritz de la ciutat joyosa
 T:Verges ses
-C:Livre Vermeil de Montserrat (XIVème siècle)
-R:Livre
-Z:Transcrit et/ou corrigé par B@D - 2005-03-06
-Z:Pour toute observation mailto:-@- M:6/4 L:1/4
 Q:3/4=90
 K:C
 V:1
@@ -1937,8 +1724,6 @@ f3g2g | !breath!a3a3 | g2gg2g | g2f2e2 | d6 |]
 
 X:84
 T:Los set goyts
-C:Llibre Vermell de Montserrat
-R:Livre
 K:C
 V:1
 c2BA | B2c2 | d2cB | A4 | BA GF | E2D2 | ED EF | 
@@ -1959,8 +1744,6 @@ A4 | A4 | G4 | G4 | A4 | A4 | d2d2 :|
 
 X:85
 T:Los set goyts
-C:Llibre Vermell de Montserrat
-R:Livre
 K:G
 V:1
 g2fe | f2g2 | a2gf | e4 | fe dc | B2A2 | BA Bc | 
@@ -1981,8 +1764,6 @@ e4 | e4 | d4 | d4 | e4 | e4 | a2a2 :|
 
 X:86
 T:Mariam Matrem Virginem
-C:Llibre Vermell de Montserrat
-R:Livre
 K:G
 V:1
 z2zA | c2d2 | e2g/fe/ | e/d/c/B/ B/AG/ | A2zB |
@@ -2018,8 +1799,6 @@ e4- | e4 | A2d2 | c2B2 | A4- | A4 |]
 
 X:87
 T:O Virgo Splendens
-C:Llibre Vermell de Montserrat
-R:Livre
 K:C
 V:1
 FGF AGA | FGF FDE | DCD D2z | DCD FGF | AGA FAG | AcA A2z |
@@ -2054,8 +1833,6 @@ ABc A2z | GAF FEF | DAD CDE | DDC D2z |]
 
 X:88
 T:O Virgo Splendens
-C:Llibre Vermell de Montserrat
-R:Livre
 K:F
 V:1
 BcB dcd | BcB BGA | GFG G2z | GFG BcB | dcd Bdc | dfd d2z |
@@ -2090,8 +1867,6 @@ def d2z | cdB BAB | GdG FGA | GGF G2z |]
 
 X:89
 T:O Virgo Splendens
-C:Llibre Vermell de Montserrat
-R:Livre
 K:G
 V:1
 cdc ede | cdc cAB | AGA A2z | AGA cdc | ede ced | ege e2z |
@@ -2160,8 +1935,6 @@ c2e dcd | ede A2e | A2B c2B | A2A GFG | HA6 |]
 
 X:91
 T:Como Poden
-Z:Transcrit et/ou corrigé par B@D - 2005-03-27
-Z:Pour toute observation mailto:-@- M:none L:1/4
 K:C
 FFF :S EDF2GLA2 LA2  : cccBcd2c/B/ LA2LA2
 AGFEDF2G LA2LA2 AGFEDEDELD2LD2z ||
@@ -2177,8 +1950,6 @@ AGF S |
 
 X:92
 T:Como Poden
-Z:Transcrit et/ou corrigé par B@D - 2005-03-27
-Z:Pour toute observation mailto:-@- M:none L:1/4
 K:G
 ccc :S BAc2dLe2 Le2  : gggfga2g/f/ Le2Le2
 edcBAc2d Le2Le2 edcBABABLA2LA2z ||
@@ -2250,9 +2021,6 @@ A2G | !breath!c2c | c_BG | A2G |(F2E) |F2G |C2z |]
 
 X:95
 T:Rotta
-C:Anonyme (XIIIe siècle)
-Z:Transcrit et/ou corrigé par B@D - 2005-04-21
-Z:Pour toute observation mailto:-@- M:C| Q:"Allegro" 1/2=92
 L:1/8
 K:F
 V:1
@@ -2271,8 +2039,6 @@ z2 | B2z2 B2B2 | B2z2B2B2 | B2z2B2B2 | B2z2B2 | B2z2B2B2 | B2z2B2 |
 
 X:96
 T:Au renouviau
-R:Danse XIIIe
-Z:Pour toute observation mailto:-@- M:2 L:1/8
 P:ABACABACA
 K:C
 P:A
@@ -2289,10 +2055,6 @@ d>a a>f | g>f e>e | d>a a>f | g>f  e>e | d>c d>e | d2 d2 |]
 X:97
 T:Fas et Nefas
 S:CB19
-C:Carmina Burana 19
-R:Carmina
-Z:Transcrit et/ou corrigé par B@D - 2005-04-09
-Z:Pour toute observation mailto:-@- M:6/8 L:1/8
 K:C
 V:1
 g2f (ed)g | (ge)f g3 | f2e d2c | (B2c) d3 | d2d d2(a/g/) |
@@ -2316,8 +2078,6 @@ G3 z3 | B2c d2(e/d/) | (cB)(A/G/) (G2F) | A2B c2B | A3 G3 |]
 
 X:98
 T:Ich was ein chint so wolgetan
-C:Carmina burana n°185
-R:Carmina
 L:1/4
 K:C
 A/ |AGFE | GGA2 | AGFE |G2A2 |
@@ -2332,8 +2092,6 @@ GG(F>G) | AGFE | DCD2 :|
 
 X:99
 T:Ich was ein chint so wolgetan
-C:Carmina burana n°185
-R:Carmina
 L:1/4
 K:G
 e/ |edcB | dde2 | edcB |d2e2 |
@@ -2348,8 +2106,6 @@ dd(c>d) | edcB | AGA2 :|
 
 X:100
 T:Gratulantès
-Z:Transcrit et/ou corrigé par B@D - 2005-03-15
-Z:Pour toute observation mailto:-@- M:2/4 L:1/8
 K:D
 V:1
 D2FE | G2BA | AF GE | ED DF | E/F/E/C/ D2 | A2 (3BAF | (3FEG BA | 
@@ -2374,8 +2130,6 @@ A2z2 | d2B2 | c2A2 | B2G2 | A2F2 | e4 | d4 |
 
 X:101
 T:Gratulantès
-Z:Transcrit et/ou corrigé par B@D - 2005-03-15
-Z:Pour toute observation mailto:-@- M:2/4 L:1/8
 K:G
 V:1
 G2BA | c2ed | dB cA | AG GB | A/B/A/F/ G2 | d2 (3edB | (3BAc ed | 
@@ -2401,7 +2155,6 @@ d2z2 | g2e2 | f2d2 | e2c2 | d2B2 | a4 | g4 |
 X:102
 T:Hija mia querida
 T:Ma fille chérie
-C:
 Q:"Allegretto alla breve"
 K:Dm
 V:1
@@ -2423,7 +2176,6 @@ F4 | D2C2 | D4 | B,2C2 | D4- | D4- | D4- | D4 | F4 | D2C2 |B,4 | B,2 B,2 | A,4- 
 X:103
 T:Hija mia querida
 T:Ma fille chérie
-C:
 Q:"Allegretto alla breve"
 K:Am
 V:1
@@ -2444,9 +2196,6 @@ c4 | A2G2 | A4 | F2G2 | A4- | A4- | A4- | A4 | c4 | A2G2 |F4 | F2 F2 | E4- | E4-
 
 X:104
 T:Sire cuens j'ai vielé
-C:Colin Muset
-Z:Transcrit et/ou corrigé par B@D - 2005-03-17
-Z:Pour toute observation mailto:-@- M:3/4 L:1/4
 K:F
 V:1
 B2B | B2B | A2B | G2z | A2F | F2F | G2(A/B/) | G2z | B2B | B2B | A2B | G2z |
@@ -2463,9 +2212,6 @@ E3 | G3 | G3 | D3 | F3 | G3 | F3 | F3 | F3 | A3 | G3 | D3 |]
 
 X:105
 T:Sire cuens j'ai vielé
-C:Colin Muset
-Z:Transcrit et/ou corrigé par B@D - 2005-03-17
-Z:Pour toute observation mailto:-@- M:3/4 L:1/4
 K:C
 V:1
 f2f | f2f | e2f | d2z | e2c | c2c | d2(e/f/) | d2z | f2f | f2f | e2f | d2z |
@@ -2483,8 +2229,6 @@ B3 | d3 | d3 | A3 | c3 | d3 | c3 | c3 | c3 | e3 | d3 | A3 |]
 X:106
 T:Sumer is icumer
 T:Perspice Christicola
-Z:Transcrit et/ou corrigé par B@D - 2005-04-04
-Z:Pour toute observation mailto:-@- M:6/4 L:1/4
 K:C
 c2B A2B | c2c (BA)G | E2E F2D | E3 z3 | C2E D2F | E2E D2C | E2G A2A |
 G3z3 | c2c A3 | c3 z3 | G2E F2D | E2G F2E | C2E D2B, | C3 z3 |
@@ -2499,8 +2243,6 @@ E3 F2G | E2G D2B, | C3 z3 |]
 X:107
 T:Sumer is icumer
 T:Perspice Christicola
-Z:Transcrit et/ou corrigé par B@D - 2005-04-04
-Z:Pour toute observation mailto:-@- M:6/4 L:1/4
 K:G
 g2f e2f | g2g (fe)d | B2B c2A | B3 z3 | G2B A2c | B2B A2G | B2d e2e |
 d3z3 | g2g e3 | g3 z3 | d2B c2A | B2d c2B | G2B A2F | G3 z3 |
@@ -2547,7 +2289,6 @@ d3 d2d e/d/ef g2d | e/d/ef g2f e2e g3 | feg fef d3 c3 | BAB d2^c d2c dcd | [M:C]
 
 X:109
 T:Quan vei la lauzeta mover
-C:Bernard de Ventadour
 M:3/8
 L:1/8
 K:C
@@ -2578,8 +2319,6 @@ e2d/c/ B/A/G G- | G2z z2B | c2e dc B | c2 B//A//B//G// (GA) A- | A2z z2 |]
 
 X:111
 T:J'aloie l'autrier errant
-R:Pastourelle
-C:Thibault de Champagne
 cde cde | f2f e2z | ecd e3 | 
 d2z z3 | ccB AAB | c2d c2z | e2g afe |
 fed c2z | cde cde | f2f e2z | ecd e3 |
@@ -2594,8 +2333,6 @@ BcB dcB | cde {f}e{d}cd | d2c2B2 | c6 |]
 
 X:112
 T:Plus dure qu'un dyamant
-R:Virelai
-C:Guillaume de Machault
 K:Dm
 P:A
 V:1
@@ -2621,8 +2358,6 @@ D6 | z2d4 | d^c2dB2 | ^c6 :| z2 D4 | F2E4 | D6 ||
 
 X:113
 T:Mais qu'il vous legne
-R:Virelai
-C:Anonyme
 L:1/8
 K:C
 V:1
@@ -2648,8 +2383,6 @@ G,2G,3B, | A,G,F,2E,2 | D,6 :| A,2E,2D,2 | C,6 ||
 
 X:114
 T:Mais qu'il vous legne
-R:Virelai
-C:Anonyme
 L:1/8
 K:C
 V:1
@@ -2675,8 +2408,6 @@ G2G3B | AGF2E2 | D6 :| A2E2D2 | C6 ||
 
 X:115
 T:Pucelette
-R:Motet
-C:Anonyme
 V:1
 ddc2A2 | ccB2c2 | d4z2 | cBA2G2 | AGA2B2 | c4z2 | dd"(Bb)"B2G2 |
 ddc2A2 | A6 | E2G2A2 | ccc2B2 | (A2{B}) A2G2 | A4z2 | c2B2c2 | ddc2A2 |
@@ -2698,8 +2429,6 @@ C6 | D6 | C6 | D4z2 | F6 | E6 || [M:4/4]  C8 | HD8 |]
 
 X:116
 T:Pucelette
-R:Motet
-C:Anonyme
 V:1
 aag2e2 | ggf2g2 | a4z2 | gfe2d2 | ede2f2 | g4z2 | aa"F"f2d2 |
 aag2e2 | e6 | B2d2e2 | ggg2f2 | (e2{f}) e2d2 | e4z2 | g2f2g2 | aag2e2 |
@@ -2722,8 +2451,6 @@ G6 | A6 | G6 | A4z2 | c6 | B6 || [M:4/4]  G8 | HA8 |]
 
 X:117
 T:En may qu'en est la rosée
-R:Motet
-C:Anonyme
 Q:"Allegro gaio" 3/8=72
 K:C
 V:1
@@ -2752,8 +2479,6 @@ F2z | (A2F) | (G2A) | c2z | (c2d ) | (B2c) | HA2z | (c2d) | f2f | c3- | Hc3 |]
 
 X:118
 T:Ma chanson n'est pas jolie
-C:Jacquemin de la Vente
-R:Chanson satirique
 M:6/8
 L:1/8
 K:C
@@ -2772,8 +2497,6 @@ E2D E2F | G2A G2F | A2c A2B | (AGF) G2z |]
 
 X:119
 T:Ma chanson n'est pas jolie
-C:Jacquemin de la Vente
-R:Chanson satirique
 M:6/8
 L:1/8
 K:G
@@ -2792,7 +2515,6 @@ B2A B2c | d2e d2c | e2g e2f | (edc) d2z |]
 
 X:120
 T:Retrowange novelle
-C:Jacques de Cambrai
 M:6/8
 L:1/8
 K:C
@@ -2809,7 +2531,6 @@ E2F ED A | A2G FE D | [M:9/8] CB, A, C2D E/F/ED |]
 
 X:121
 T:Retrowange novelle
-C:Jacques de Cambrai
 M:6/8
 L:1/8
 K:C
@@ -2827,7 +2548,6 @@ e2f ed a | a2g fe d | [M:9/8] cB A c2d e/f/ed |]
 
 X:122
 T:Quan vei la lauzeta mover
-C:Bernard de Ventadour
 L:1/4
 K:C
 D | F2G | A2A | A (B/A/G/A/) | GzG | A2B |
@@ -2843,7 +2563,6 @@ B(A/G/A) | F(A/G/E) | FzG | A2B | c2A | (GE)F |
 
 X:123
 T:Quan vei la lauzeta mover
-C:Bernard de Ventadour
 L:1/4
 K:G
 A | c2d | e2e | e (f/e/d/e/) | dzd | e2f |
@@ -2859,8 +2578,6 @@ f(e/d/e) | c(e/d/B) | czd | e2f | g2e | (dB)c |
 
 X:124
 T:A l'entrada del temps clar
-C:Anonyme
-R:Ballade
 M:3/4
 L:1/4
 K:C
@@ -2877,8 +2594,6 @@ C>(CD) | EzG | (AGF/E/) | F(FE) | (D2C) | D(DB,) | C3 |]
 
 X:125
 T:A l'entrada del temps clar
-C:Anonyme
-R:Ballade
 M:3/4
 L:1/4
 K:G
@@ -2895,7 +2610,6 @@ G>(GA) | Bzd | (edc/B/) | c(cB) | (A2G) | A(AF) | G3 |]
 
 X:126
 T:Lo ferm voler
-C:Arnaut Daniel
 L:1/4
 K:C
 C>EG | G2A | _B2A | G2z | F>FE | F>DE |
@@ -2909,7 +2623,6 @@ G>GF | A>_BA | (AG)F/z/ | E>D (E/D/) | C>CE | D>EF |
 
 X:127
 T:Lo ferm voler
-C:Arnaut Daniel
 L:1/4
 K:A
 A>ce | e2f | =g2f | e2z | d>dc | d>Bc |
@@ -2923,7 +2636,6 @@ e>ed | f>=gf | (fe)d/z/ | c>B (c/B/) | A>Ac | B>cd |
 
 X:128
 T:Quan l'erba fresq'
-C:Bernard de Ventadour
 L:1/4
 K:C
 F | G2A | (A/G/F)E | D(E/F/E) | DzF | G2A |
@@ -2939,7 +2651,6 @@ D2E | !breath!C(F/E/D) | E2F | G2G | G>(FG) | A>(AG) |
 
 X:129
 T:Quan l'erba fresq'
-C:Bernard de Ventadour
 L:1/4
 K:G
 c | d2e | (e/d/c)B | A(B/c/B) | Azc | d2e |
@@ -2955,7 +2666,6 @@ A2B | !breath!G(c/B/A) | B2c | d2d | d>(cd) | e>(ed) |
 
 X:130
 T:Ai ! Lemozis
-C:Bertrand de Born
 L:1/4
 K:C
 G>GB | d>dc | d>ed | (c>BA) | B2z |
@@ -2971,7 +2681,6 @@ G>Bc | d>dd | d2z | c>BA | G>GG | A>BG |
 
 X:131
 T:Ai ! Lemozis
-C:Bertrand de Born
 L:1/4
 K:G
 d>df | a>ag | a>ba | (g>fe) | f2z |
@@ -2987,7 +2696,6 @@ d>fg | a>aa | a2z | g>fe | d>dd | e>fd |
 
 X:132
 T:En cantan
-C:Folquet de Merseille
 K:C
 E | G2G | (AB)G | F>(DE) | (G/F/E/!breath!D/) C | (DC)F |
 E>F (D/C/) | (F/G/) (FE/D/) | !breath!D2 (D/E/) | G2A | B2c | d G/ (A/B/) c/ | 
@@ -3002,7 +2710,6 @@ A2B | c(dc) | (BA/G/) (A/B/) | d2B | (c/B/A/G/A) |]
 
 X:133
 T:En cantan
-C:Folquet de Merseille
 K:G
 B | d2d | (ef)d | c>(AB) | (d/c/B/!breath!A/) G | (AG)c |
 B>c (A/G/) | (c/d/) (cB/A/) | !breath!A2 (A/B/) | d2e | f2g | a d/ (e/f/) g/ | 
@@ -3019,7 +2726,6 @@ e2f | g(ag) | (fe/d/) (e/f/) | a2f | (g/f/e/d/e) |]
 
 X:134
 T:Rassa, tan creis
-C:Bertrand de Born
 L:1/4
 K:C
 c3 | c2c | c2c | B2A | B3 | A2z | A3 | B2B |
@@ -3038,7 +2744,6 @@ A2A | A3 | D2z | D3 | E2F | G2A | B>(BA) | G2z |]
 
 X:135
 T:Rassa, tan creis
-C:Bertrand de Born
 L:1/4
 K:G
 g3 | g2g | g2g | f2e | f3 | e2z | e3 | f2f |
@@ -3057,7 +2762,6 @@ e2e | e3 | A2z | A3 | B2c | d2e | f>(fe) | d2z |]
 
 X:136
 T:Fort chos'oiatz
-C:Gaucelm Faidit
 K:C
 A2A | A2_B | A(G>F) | (GA/"(Bb)"B/)A | (G2F) | (ED)z |
 A2G | G2F | (ED)E | (F/E/) (ED/C/) | D2E | E2z |
@@ -3076,7 +2780,6 @@ G(A//B//c//B//G) | EC(D/E/) | (G>FE) | (F>ED) | D2z |]
 
 X:137
 T:Fort chos'oiatz
-C:Gaucelm Faidit
 K:G
 e2e | e2=f | e(d>c) | (de/"F"f/)e | (d2c) | (BA)z |
 e2d | d2c | (BA)B | (c/B/) (BA/G/) | A2B | B2z |
@@ -3096,7 +2799,6 @@ d(e//f//g//f//d) | BG(A/B/) | (d>cB) | (c>BA) | A2z |]
 
 X:138
 T:L'autrier, just'una sebissa
-C:Marcabru
 L:1/4
 K:C
 c | c2c | c2e | g(f/g/f/e/) | dzc | B2A | B2c | B>(AB) |
@@ -3112,7 +2814,6 @@ c>(BA) | GzG | (A>B)d | e2d | c>(BG) | A>(BA/G/ | A2) |]
 
 X:139
 T:Reis Glorios
-C:Guiraut de Borneilh
 L:1/4
 K:C
 D>DA | A>(AB) | c(B/A/B) | G(A/B/c) | (BA)z |
@@ -3127,7 +2828,6 @@ E2z | CDE | F(G/A/G) | (F/E/D/E/F) | (ED)z |]
 
 X:140
 T:Reis Glorios
-C:Guiraut de Borneilh
 L:1/4
 K:G
 A>Ae | e>(ef) | g(f/e/f) | d(e/f/g) | (fe)z |
@@ -3142,7 +2842,6 @@ B2z | GAB | c(d/e/d) | (c/B/A/B/c) | (BA)z |]
 
 X:141
 T:Air (médiéval)
-C:? ? ?
 K:Bb
 V:1
 c2d2 |: e3d ce dc | d>c d/e/d/c/ d4 | c2c>{d/}=B ce dc | {e}=B4 {d}B2 cd |
@@ -3159,8 +2858,6 @@ C3D EF2G/_A/ | B4- BF B/_A/G/F/ | {B}G2C2 G{A}F G2 | E4 {A}E2D2 :| E8 |]
 
 X:142
 T:Plus dure qu'un dyamant
-R:Virelai
-C:Guillaume de Machault
 K:Am
 P:A
 V:1
@@ -3187,7 +2884,6 @@ A,6 | z2A4 | A^G2AF2 | ^G6 :| z2 A,4 | C2B,4 | A,6 ||
 
 X:143
 T:Ductie
-C:Anon. 
 L:1/8
 K:C
 V:1
@@ -3211,7 +2907,6 @@ G2F G2A | G3G2z | F2G F2G | E2G A2B | G2F G2A | F3F2z |]
 
 X:144
 T:Quinte estampie real, La
-C:Anonyme
 c | cBc d/c/de | dcB/A/ Gz c | cBA B/A/B/c/d | c3c2c | 
     cBc d/c/de | dcB/A/ Gz c | cBA B/A/B/A/G | A3 A3 || 
 e2A e2d | f/e/d/e/c/d/ c2z | g2f e2d | c/B/cd ez c | cBA B/A/B/c/d | c3c3 | 
@@ -3223,7 +2918,6 @@ G2A c2d | e2z g/f/gc | g/f/g/a/g/f/ ez c | cBA B/A/B/A/G | A3 A3|]
 
 X:0
 T:Quinte estampie real, La
-C:Ananonyme
 ccB cd/c/d | edc B/A/Gz | ccB AB/A/B/c/ | dc2 c3 | 
 ccB cd/c/d | edc B/A/Gz | ccB AB/A/B/A/ | GA2 A3 || 
 e2A e2d | f/e/d/e/c/d/ c2z | g2f e2d | c/B/cd e2z | ccB AB/A/B/c/ | dc2 c3 |
@@ -3239,7 +2933,6 @@ G2A c2d | e2z g/f/gc | g/f/g/a/g/f/ e3 | ccB AB/A/B/A/ | GA2 A3 |]
 
 X:145
 T:Sexte estampie real, La
-C:Anonyme
 F/LG/ | \
 FED F/E/F/LG/A | GFE/D/ Fz F | F/E/FG F2C | F3 F2F/LG/ | 
 FED F/E/F/LG/A | GFE/D/ Fz F F/E/F/G/F/E/ | D3 Dz F | 
@@ -3260,7 +2953,6 @@ de/Ld/c/B/ A2B | c/B/c/d/c/LB/ Gz F F/E/F/G/F/E/ | D3 D2 |]
 
 X:146
 T:Sexte estampie real, La
-C:Anonyme
 c/Ld/ | \
 cBA c/B/c/Ld/e | dcB/A/ cz c | c/B/cd c2G | c3 c2c/Ld/ | 
 cBA c/B/c/Ld/e | dcB/A/ cz c c/B/c/d/c/B/ | A3 Az c | 
@@ -3281,7 +2973,6 @@ ab/La/g/f/ e2f | g/f/g/a/g/Lf/ dz c c/B/c/d/c/B/ | A3 A2 |]
 
 X:147
 T:Septieme estampie real, La
-C:Anonyme
 FGA GF/E/F | DGLA Fz2 | GGLA F/E/FG | A3A3 |
 FGA GF/E/F | DGLA Fz2 | GGLA FE2 | F3F3 ||
 ccd fe/d/c | _B3Bz2 | d_Bd cBA/G/ | A3A2z |GGLA F/E/FG | A3A3 |
@@ -3298,7 +2989,6 @@ DG/F/G F/E/FG | A2z Acd | AGF/G/ A2z | GGLA FE2 | F3F3 |]
 
 X:148
 T:Septieme estampie real, La
-C:Anonyme
 cde dc/B/c | AdLe cz2 | ddLe c/B/cd | e3e3 |
 cde dc/B/c | AdLe cz2 | ddLe cB2 | c3c3 ||
 gga c'b/a/g | =f3fz2 | a=fa gfe/d/ | e3e2z |ddLe c/B/cd | e3e3 |
@@ -3315,7 +3005,6 @@ Ad/c/d c/B/cd | e2z ega | edc/d/ e2z | ddLe cB2 | c3c3 |]
 
 X:149
 T:Uitime estampie real, La
-C:Anonyme
 c | c2d c2B/A/ | G3G2z | GALG FALB | A/G/AB A2c | c2d c2B/A/ | G3G2z | GALG FG2 | F/E/F2 F2|| c | 
 cGc c/"(B=)"B/c"(B=)"B/A/ | GA"(B=)"B c2z | cd_e dcB/A/ | G3F2z | GALG FALB | A/G/AB A2c | 
 cGc c/"(B=)"B/c"(B=)"B/A/ | GA"(B=)"B c2z | cd_e dcB/A/ | G3F2z | GALG FG2 | F/E/F2 F2||A |
@@ -3332,7 +3021,6 @@ f2e/d/ c2B/A/ | B2Lc B2z | cd_e dc/B/A/B/ | c3c2z | GA2 FG2 | F/E/F2F2 |]
 
 X:150
 T:Uitime estampie real, La
-C:Anonyme
 g | g2a g2f/e/ | d3d2z | deLd ceLf | e/d/ef e2g | g2a g2f/e/ | d3d2z | deLd cd2 | c/B/c2 c2|| g | 
 gdg g/"F#"f/g"F#"f/e/ | de"F#"f g2z | ga_b agf/e/ | d3c2z | deLd ceLf | e/d/ef e2g | 
 gdg g/"F#"f/g"F#"f/e/ | de"F#"f g2z | ga_b agf/e/ | d3c2z | deLd cd2 | c/B/c2 c2||e |
@@ -3349,7 +3037,6 @@ c'2b/a/ g2f/e/ | f2Lg f2z | ga_b ag/f/e/f/ | g3g2z | de2 cd2 | c/B/c2c2 |]
 
 X:151
 T:Dansse real
-C:Anonyme
 FGA B2B | c2B/A/ B3 Bz2 |
 Bdc BLAG | ABA G2G/LA/ |
 GA/G/F/E//LF// GGz | GFE F3F3 ||
@@ -3366,7 +3053,6 @@ GA/G/F/E//LF// GGz | GFE F3F3 |]
 
 X:152
 T:Dansse real
-C:Anonyme
 cde f2f | g2f/e/ f3 fz2 |
 fag fLed | efe d2d/Le/ |
 de/d/c/B//Lc// ddz | dcB c3c3 ||
@@ -3383,8 +3069,6 @@ de/d/c/B//Lc// ddz | dcB c3c3 |]
 
 X:153
 T:Ma belle si ton ame
-C:J. B. Besard : Thesaurus Harmonicus
-C:Gilles Durant de la Bergerie (1554-1605)
 M:C|
 L:1/4
 K:Em
@@ -3414,8 +3098,6 @@ defe | f2d2 | e2c2 | d>cB2 | A>cB2 | E4 |]
 
 X:154
 T:Ma belle si ton ame
-C:J. B. Besard : Thesaurus Harmonicus
-C:Gilles Durant de la Bergerie (1554-1605)
 M:C|
 L:1/4
 K:Am
@@ -3445,8 +3127,6 @@ GABA | B2G2 | A2F2 | G>FE2 | D>FE2 | A,4 |]
 
 X:155
 T:Bon jour, bon mois
-C:Guillaume Dufay
-C:Transcript par N. Nakamura, 2008
 M:3/8
 L:1/8
 K:F
@@ -3478,8 +3158,6 @@ A2B2A2 | [M:3/8] zG2 | d2G | zdc | z_ed | B2A | [M:6/8] G6 |]
 
 X:156
 T:Bon jour, bon mois
-C:Guillaume Dufay
-C:Transcript par N. Nakamura, 2008
 M:3/8
 L:1/8
 K:C
@@ -3511,8 +3189,6 @@ e2f2e2 | [M:3/8] zd2 | a2d | zag | z_ba | f2e | [M:6/8] d6 |]
 
 X:157
 T:Ce moys de may
-C:Guillaume Dufay
-C:Transcript par N. Nakamura, 2005,2007
 M:6/8
 L:1/8
 K:C
@@ -3553,8 +3229,6 @@ c4G2 | A2B AG2 | F2A2c2 | f2e dc2 | F6 |]
 
 X:158
 T:Ce moys de may
-C:Guillaume Dufay
-C:Transcript par N. Nakamura, 2005,2007
 M:6/8
 L:1/8
 K:F
@@ -3595,9 +3269,6 @@ f4c2 | d2e dc2 | B2d2f2 | b2a gf2 | B6 |]
 
 X:159
 T:Le roy de France
-C:Air sépharade
-Z:Transcrit et/ou corrigé par B@D - 2006-11-17
-Z:Pour toute observation mailto:-@- M:5/2 L:1/8
 K:Cm
 V:1
 c |: c4 g3f feef g6 g a | c'3b bggf fedf f2 e4 e e |
@@ -3613,8 +3284,6 @@ G2G2 G12 G4 | G2G2 G6 G2 G4 G4 :|
 
 X:160
 T:Beaulté
-R:Basse-danse
-C:Marie de Bourgogne
 M: 4/4
 L: 1/8
 Q:1/4=100
@@ -3730,8 +3399,6 @@ B2 BB B4 |]
 
 X:161
 T:Beaulté
-R:Basse-danse
-C:Marie de Bourgogne
 M: 4/4
 L: 1/8
 Q:1/4=100
@@ -3847,8 +3514,6 @@ d2 dd d4 |]
 
 X:162
 T:La franchoise nouvelle
-R:Basse-danse
-C:Marie de Bourgogne
 M: 4/4
 L: 1/8
 Q:1/4=92
@@ -3936,8 +3601,6 @@ BB B2 BB B2 |]
 
 X:163
 T:La franchoise nouvelle
-R:Basse-danse
-C:Marie de Bourgogne
 M: 4/4
 L: 1/8
 Q:1/4=92
@@ -4025,8 +3688,6 @@ cc c2 cc c2 |]
 
 X:164
 T:Branle
-R:Branle
-C:Marie de Bourgogne
 M: 4/4
 L: 1/8
 Q:1/4=150
@@ -4138,8 +3799,6 @@ A2 G2 F4 |]
 
 X:165
 T:Branle
-R:Branle
-C:Marie de Bourgogne
 M: 4/4
 L: 1/8
 Q:1/4=150
@@ -4251,7 +3910,6 @@ B2 A2 G4 |]
 
 X:166
 T:Se je soupir
-C:Guillaume de Machaut
 M: 4/4
 L: 1/8
 Q:1/4=120
@@ -4303,7 +3961,6 @@ c8 |]
 
 X:167
 T:De bonté, de valour
-C:Guillaume de Machaut
 M:6/8
 L:1/8
 Q:1/4=132
@@ -4340,8 +3997,6 @@ B,6|G,6|A,6-|A,6 |]
 
 X:168
 T:Polorum Regina
-C:Livre Vermeil de Montserrat (XIVème siècle)
-R:Livre
 M:3/4
 L:1/8
 Q:1/4=240
@@ -4414,8 +4069,6 @@ z6 | B6 | z6 | B6 | B6 | z6|]
 
 X:169
 T:Hui main, au doz mois de mai
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:3/4
 L:1/8
 Q:1/4=208
@@ -4449,8 +4102,6 @@ B,,6 | G,,6 | B,,6 |]
 
 X:170
 T:A vos, douce debonaire
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:6/8
 L:1/8
 Q:1/4=162
@@ -4480,8 +4131,6 @@ z3 G3 | F3 G3/2z3/2 | G3 F3 |]
 
 X:171
 T:A la clarté qui tout enlumina
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:3/4
 L:1/8
 Q:1/4=176
@@ -4517,8 +4166,6 @@ D6 | E2z4 | G2G4 | D6 |]
 
 X:172
 T:Je gart le bois
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:6/8
 L:1/8
 Q:1/4=132
@@ -4546,8 +4193,6 @@ dBd d2z | A3 |]
 
 X:173
 T:Pensis, chief enclin
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:6/8
 L:1/8
 Q:1/4=120
@@ -4573,8 +4218,6 @@ A,2C D2z | C3 D2z | F2E C2z | D3 |]
 
 X:174
 T:Pensis, chief enclin
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:6/8
 L:1/8
 Q:1/4=120
@@ -4600,8 +4243,6 @@ E2G A2z | G3 A2z | c2B G2z | A3 |]
 
 X:175
 T:Plus joliement
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:3/4
 L:1/8
 Q:1/4=120
@@ -4649,8 +4290,6 @@ C,4D,2 | C,2A,,2C,2 | B,,4G,,2 | A,,2G,,4 |
 
 X:176
 T:Plus joliement
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:3/4
 L:1/8
 Q:1/4=120
@@ -4698,8 +4337,6 @@ G,4A,2 | G,2E,2G,2 | F,4D,2 | E,2D,4 |
 
 X:177
 T:On parole debatre
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:3/4
 L:1/8
 Q:1/4=120
@@ -4739,8 +4376,6 @@ A,B,C4 | C2B, A,A,B, | A,6 | G,6 |]
 
 X:178
 T:Je m'estoie mis en voie
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:6/8
 L:1/8
 Q:1/4=120
@@ -4765,8 +4400,6 @@ A,2z G,2A, | G,2E, F,2z | G,2D, F,2E, | D,3 |]
 
 X:179
 T:Je m'estoie mis en voie
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:6/8
 L:1/8
 Q:1/4=120
@@ -4791,8 +4424,6 @@ E2z D2E | D2B, C2z | D2A, C2B, | A,3 |]
 
 X:180
 T:Biaus cuers
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:6/8
 L:1/8
 Q:1/4=120
@@ -4817,8 +4448,6 @@ c2d A2F | G2z F2z | FFF2<A2 | cdd c3 |]
 
 X:181
 T:Alle psallite cum luya
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:6/8
 L:1/8
 Q:1/4=155
@@ -4855,8 +4484,6 @@ D,3 F,3 | E,6 | D,6 |]
 
 X:182
 T:Deus in adjutorium
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Conduit
 M:3/4
 L:1/8
 Q:1/4=176
@@ -4889,8 +4516,6 @@ A,2=F,4 | A,2B,2A,2 | G,6- | G,6|]
 
 X:183
 T:Trop sovent
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:3/4
 L:1/8
 Q:1/4=120
@@ -4923,8 +4548,6 @@ C6 | G,6 | G,6- | G,2F,4- | F,6 |]
 
 X:184
 T:Trop sovent
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:3/4
 L:1/8
 Q:1/4=120
@@ -4957,8 +4580,6 @@ G6 | D6 | D6- | D2C4- | C6 |]
 
 X:185
 T:Quant voi
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:3/4
 L:1/8
 Q:1/4=120
@@ -4995,8 +4616,6 @@ G,4A,2 | G,3- G,2z | G,6 | A,6 |]
 
 X:186
 T:Quant voi
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:3/4
 L:1/8
 Q:1/4=120
@@ -5033,8 +4652,6 @@ D4E2 | D3- D2z | D6 | E6 |]
 
 X:187
 T:Psallat chorus
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:6/8
 L:1/8
 Q:1/4=120
@@ -5073,8 +4690,6 @@ A3 B3 | G2-Gz2z | A6 | A3 G3- | G6 |]
 
 X:188
 T:Cil s'entremet
-C:Manuscript de Montpellier (XIIIe siècle)
-R:Motet
 M:3/4
 L:1/8
 Q:1/4=176
@@ -5130,7 +4745,6 @@ F4E2 | D6- | D6 |]
 X:189
 T:D'une amour quoie et serie
 T:Les miracles de Notre-Dame
-C:Gautier de Coincy (1177-1236)
 M:6/8
 L:1/8
 Q:3/8=72
@@ -5155,7 +4769,6 @@ d2c BA2 | B3 c3 | BAG Bc2 | d3 d3 |]
 X:190
 T:Mere Dieu, virge senee
 T:Les miracles de Notre-Dame
-C:Gautier de Coincy (1177-1236)
 %***Missing time signature meta command in MIDI file
 M:4/4
 L:1/8
@@ -5182,7 +4795,6 @@ A,8- | A,4 |]
 X:191
 T:Ma viele
 T:Les miracles de Notre-Dame
-C:Gautier de Coincy (1177-1236)
 M:4/4
 L:1/8
 Q:1/4=81
@@ -5206,7 +4818,6 @@ c4 c4 | c4 c4 | c4 c4 | c4 c4 | c2 c2 |]
 X:192
 T:Hui matin a l'ajournee
 T:Les miracles de Notre-Dame
-C:Gautier de Coincy (1177-1236)
 M:6/8
 L:1/8
 Q:1/4=160
@@ -5261,7 +4872,6 @@ G6 |]
 X:193
 T:Amours qui bien set enchanter
 T:Les miracles de Notre-Dame
-C:Gautier de Coincy (1177-1236)
 M:3/4
 L:1/8
 Q:1/4=168
@@ -5284,7 +4894,6 @@ E4F2 | E6 | E4D2 | D6 | C6 |]
 X:194
 T:Amours qui bien set enchanter
 T:Les miracles de Notre-Dame
-C:Gautier de Coincy (1177-1236)
 M:3/4
 L:1/8
 Q:1/4=168
@@ -5307,7 +4916,6 @@ B4c2 | B6 | B4A2 | A6 | G6 |]
 X:195
 T:Qui ne face rotruenge  nouvele
 T:Les miracles de Notre-Dame
-C:Gautier de Coincy (1177-1236)
 M:3/4
 L:1/8
 Q:1/4=240
@@ -5344,7 +4952,6 @@ A6 | G6 |]
 X:196
 T:Qui ne face rotruenge  nouvele
 T:Les miracles de Notre-Dame
-C:Gautier de Coincy (1177-1236)
 M:3/4
 L:1/8
 Q:1/4=240
@@ -5381,7 +4988,6 @@ e6 | d6 |]
 X:197
 T:Reyne celestre
 T:Les miracles de Notre-Dame
-C:Gautier de Coincy (1177-1236)
 M:6/8
 L:1/8
 Q:1/4=110
@@ -5424,7 +5030,6 @@ B2B B2B | B2B B2B | B2B B3 |]
 X:198
 T:Reyne celestre
 T:Les miracles de Notre-Dame
-C:Gautier de Coincy (1177-1236)
 M:6/8
 L:1/8
 Q:1/4=110
@@ -5467,8 +5072,6 @@ f2f f2f | f2f f2f | f2f f3 |]
 X:199
 T:Seignor, saichiés qui or ne s'en ira
 T:Chanson de croisade
-R:Chanson
-C:Thibaut de Champagne
 M:6/8
 L:1/8
 Q:1/4=120
@@ -5492,7 +5095,6 @@ G3 AAB | G3 Bd2 | cB2 AAG | GA2 |]
 X:200
 T:Chanterai por mon corage
 T:Chanson de croisade
-C:Guiot de Dijon
 M:6/8
 L:1/8
 Q:1/4=104
@@ -5520,8 +5122,6 @@ gf2 ed2 | [M:9/8] dd2 e/=f/ed cz2 |
 
 X:201
 T:Dame, merci, une rien vos deman
-R:Jeu - Parti
-C:Thibaut de Champagne
 M:6/8
 L:1/8
 Q:1/4=100
@@ -5541,8 +5141,6 @@ f2e ded | c3 eg2 | f3 ed2 | e/2f/2ec d3 |]
 
 X:202
 T:J'aloie l'autrier errant
-C:Thibaut de Champagne
-R:Pastourelle
 M:6/8
 L:1/8
 Q:1/4=94
@@ -5562,8 +5160,6 @@ cde f/2e/2d/2c/2d | d/2c/2B2 c3 |]
 
 X:203
 T:L'autrier par la matinee
-C:Thibaut de Champagne
-R:Pastourelle
 M:6/8
 L:1/8
 Q:1/4=135
@@ -5580,9 +5176,6 @@ G2A B2d | dcB A2G | A2B c2B | B/2A/2GA A3 |]
 
 X:204
 T:Rosas Das Rosas (Cantiga 10)
-C:Las Cantigas de Santa Maria, 1252
-C:Anon., Alphonse X (1221-1284)
-R:Cantigas
 M:6/8
 L:1/8
 Q:1/4=120
@@ -5615,9 +5208,6 @@ B3 BB2 | B3 BB2 | B3 BB2 | B3 BB2 |]
 
 X:205
 T:Rosas Das Rosas (Cantiga 10)
-C:Las Cantigas de Santa Maria, 1252
-C:Anon., Alphonse X (1221-1284)
-R:Cantigas
 M:6/8
 L:1/8
 Q:1/4=120
@@ -5652,8 +5242,6 @@ f3 ff2 | f3 ff2 | f3 ff2 | f3 ff2 |]
 
 X:206
 T:Ma chanson n'est pais jolie
-C:Jacquemin de la Vente
-R:Chanson
 M:6/8
 L:1/8
 K:C
@@ -5670,8 +5258,6 @@ E2D E2F | G2A G2F | A2c A2B | AGF G2z |]
 
 X:207
 T:Ma chanson n'est pais jolie
-C:Jacquemin de la Vente
-R:Chanson
 M:6/8
 L:1/8
 K:G
@@ -5690,8 +5276,6 @@ B2A B2c | d2e d2c | e2g e2f | edc d2z |]
 
 X:208
 T:Dame, vos hom vous estrine
-C:Adam de la Halle
-R:Chanson
 Q:1/4=80
 K:C 
 V:1
@@ -5707,8 +5291,6 @@ A3 BAG | Ac2 c/2^A/2=AG | A/2^A/2=AG F3 |]
 
 X:209
 T:Dame, vos hom vous estrine
-C:Adam de la Halle
-R:Chanson
 Q:1/4=80
 K:D 
 V:1
@@ -5724,8 +5306,6 @@ B3 cBA | Bd2 d/2=c/2BA | B/2=c/2BA G3 |]
 
 X:210
 T:Jou senc en moy l'amor renouveler
-C:Adam de la Halle
-R:Chanson
 Q:1/4=100
 K:G 
 V:1
@@ -5745,8 +5325,6 @@ AGF2G2 |]
 
 X:211
 T:Jou senc en moy l'amor renouveler
-C:Adam de la Halle
-R:Chanson
 Q:1/4=100
 K:C 
 V:1
@@ -5766,8 +5344,6 @@ dcB2c2 |]
 
 X:212
 T:Onkes nus hom ne fu pris
-C:Adam de la Halle
-R:Chanson
 Q:1/4=120
 K:F 
 V:1
@@ -5784,8 +5360,6 @@ A2-Az2z | A2B c2B | A2G F2E | F3 |]
 
 X:213
 T:Onkes nus hom ne fu pris
-C:Adam de la Halle
-R:Chanson
 Q:1/4=120
 K:G 
 V:1
@@ -5802,8 +5376,6 @@ B2-Bz2z | B2c d2c | B2A G2F | G3 |]
 
 X:214
 T:Adan, d'amour vous demant
-C:Adam de la Halle
-R:Jeu-parti
 Q:1/4=72
 K:C 
 V:1
@@ -5829,8 +5401,6 @@ DAd DAd | DAd DAd | DAd DAd | DAd DAd | DAd D3 |]
 
 X:215
 T:Adan, si soit que me feme amés tant
-C:Adam de la Halle
-R:Jeu-parti
 Q:1/4=120
 K:F 
 V:1
@@ -5849,8 +5419,6 @@ F3 A2G | F3 E2G | F3 FED | E3 F3 |]
 
 X:216
 T:Adan, si soit que me feme amés tant
-C:Adam de la Halle
-R:Jeu-parti
 Q:1/4=120
 K:C 
 V:1
@@ -5869,8 +5437,6 @@ c3 e2d | c3 B2d | c3 cBA | B3 c3 |]
 
 X:217
 T:A Dieu commant amouretes
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=60
 K:C 
 V:1
@@ -5895,8 +5461,6 @@ A2A F2F | GAF/2G/2 A2A | G2z F2F | A2A F2F | G3 F3 |]
 
 X:218
 T:A jointes mains vous proi
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=60
 K:C 
 V:1
@@ -5918,8 +5482,6 @@ GF2 GF2 | AG2 GF2 | GF2 AG2 | GF2 GF2 | AG2 GF3/2
 
 X:219
 T:Amour et ma dame aussi
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=120
 K:D 
 V:1
@@ -5951,8 +5513,6 @@ V:3
 
 X:220
 T:Hé, Diex, quant verrai
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=70
 K:C 
 V:1
@@ -5970,8 +5530,6 @@ F2F A2A | G2z F2F | A2A G2A | G2G F3 |]
 
 X:221
 T:Tant con je vivrai
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=70
 K:F 
 V:1
@@ -6002,8 +5560,6 @@ A6 | G2-Gz2z | G6 | F3 |]
 
 X:222
 T:Li dous regars de ma dame
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=100
 K:Ab 
 V:1
@@ -6034,8 +5590,6 @@ C2=E4 | F2=D2C2 | B,=DF4 | G6 |]
 
 X:223
 T:Li dous regars de ma dame
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=100
 K:F 
 V:1
@@ -6066,8 +5620,6 @@ A2^c4 | d2=B2A2 | G=Bd4 | e6 |]
 
 X:224
 T:Je muir d'amourete
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=120
 K:C 
 V:1
@@ -6114,8 +5666,6 @@ ABc2B2 | A2c2B2 | A2G4 | F6 |]
 
 X:225
 T:Je muir d'amourete
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=120
 K:G 
 V:1
@@ -6162,8 +5712,6 @@ efg2f2 | e2g2f2 | e2d4 | c6 |]
 
 X:226
 T:Hareu, li maus d'amer m'ochist
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=100
 K:C 
 V:1
@@ -6191,8 +5739,6 @@ E2D2E2 | E2D4 |]
 
 X:227
 T:Or est Baiars 
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=162
 K:G 
 V:1
@@ -6238,8 +5784,6 @@ z3 A,3 | A,2B,2<D2 | C3 E3 | EDC B,3 |]
 
 X:228
 T:Dieus soit en cheste maison
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=120
 K:C 
 V:1
@@ -6279,8 +5823,6 @@ A2G4 | A2B4 | c2d4 | c^A/2>=A/2G4 | F4 |]
 
 X:229
 T:Dieus soit en cheste maison
-C:Adam de la Halle
-R:Rondeau
 Q:1/4=120
 K:D 
 V:1
@@ -6320,8 +5862,6 @@ B,2A,4 | B,2C4 | D2E4 | D=C/2>B,/2A,4 | G,4 |]
 
 X:230
 T:A la Duché de Normandie (Chanson 3)
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -6347,8 +5887,6 @@ B2 BB B2 BB | B2 BB B2 BB | B2 BB B2 BB | B2 BB B2 BB | B8 |]
 
 X:231
 T:A la Duché de Normandie (Chanson 3)
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -6375,8 +5913,6 @@ e2 ee e2 ee | e2 ee e2 ee | e2 ee e2 ee | e2 ee e2 ee | e8 |]
 X:232
 T:Belle, belle tres doulce mere Dieu (Chanson 11)
 S:from bay11.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=98
@@ -6406,8 +5942,6 @@ A3/2A/2 AA A3/2A/2 AA | A3/2A/2 AA A4 |]
 X:233
 T:Belle, belle tres doulce mere Dieu (Chanson 11)
 S:from bay11.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=98
@@ -6437,8 +5971,6 @@ A3/2A/2 AA A3/2A/2 AA | A3/2A/2 AA A4 |]
 X:234
 T:Bevons, ma commere, nous ne bevons point.(Chanson 15)
 S:from bay15.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:2/4
 L:1/16
 Q:1/4=100
@@ -6455,8 +5987,6 @@ A2G2 F4 | B3G B2c2 | A2G2 c3d | BGA2 G4 |]
 X:235
 T:C'est a ce joly moys de may (Chanson 1)
 S:from bay1.mid
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -6477,8 +6007,6 @@ D,2 D,D, D,2 D,D, | D,2 D,D, D,2 D,D, | D,2 D,D, D,2 D,D, | D,2 D,D, D,2 D,D, | 
 
 X:236
 T:Dieu mercy, j'ay bien labouré,  (Chanson 9)
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 S:from bay9.MID
 M:4/4
 L:1/8
@@ -6509,8 +6037,6 @@ G2 GG G2 GG | G2 GG G2 GG | G2 GG G2 GG | G4 |]
 X:237
 T:En amour n'a sinon bien
 S:from bay6.mid
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -6537,8 +6063,6 @@ B8 |]
 X:238
 T:En despit des faulx envieux (Chanson 10)
 S:from bay10.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -6565,8 +6089,6 @@ B2 BB B2 BB | B2 BB B4 |]
 
 X:239
 T:En regardant vo gratieux maintien (Chanson 24)
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 S:from bay24.MID
 M:3/4
 L:1/8
@@ -6588,9 +6110,6 @@ EF F/2E/2D/2C/2 D2 | C6 |]
 X:240
 T: Chanson XL1V - Hellas, madame, que je désire tant
 T: Manuscript de Bayeux
-R:Chanson
-Z:Transcrit et/ou corrigé par B@D - 2006-04-24
-Z:Pour toute observation mailto:-@- M: 2/4 K: C
 V: 1
 L: 1/4
 c c/c/|B>c|B/A/ A/^G/|A2 |c c/c/|B/4A/4B/4c/4 B/c/|B/A/ A/^G/|A z/A/|
@@ -6614,8 +6133,6 @@ e2|c/>c/ A/e/|g>a|g/f/ e/>e/|e2||
 X:241
 T:Hé! j'ai veu le temps (Chanson 18)
 S:from bay18.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -6644,8 +6161,6 @@ C2 CC C2 CC | C2 CC C2 CC | C2 CC C2 CC | C2 CC C2 CC | C2 CC C4 |]
 X:242
 T:Hélas, mon cueur n'est pas à moy, (Chanson 17)
 S:from bay17.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -6662,11 +6177,6 @@ A2 B2 G2 F2 | G2 G2 F4 | F2 FG A2 A2 | B4 A2 F2 | G4 F4 |]
 
 X:243
 T:Hélas, Olivier Vasselin
-C:Manuscript de Bayeux
-C:Arrangement : Michel Falèze
-R:Chanson
-Z:Transcrit et/ou corrigé par B@D - 2006-04-24
-Z:Pour toute observation mailto:-@- M:C L:1/8
 K:Am
 V:1
 C'4 D'3D' | E'3D' D'2B2 | A4 A'E'E'^F' | G'3A' G'>A' G'F' | E'2D'2C'4 | C'4 D'3D' | E'3D' D'2B2 | A8 |:
@@ -6685,8 +6195,6 @@ A,,4 E,,4 | G,,4 G,,4 | E,,4 C,4 | D,4 E,4 | E,4 D,4 | F,,4 A,,,4 |]
 
 X:244
 T:J'ay mis mon cueur (Chanson 22)
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 S:from bay22.MID
 M:4/4
 L:1/8
@@ -6707,8 +6215,6 @@ d'2 d'd'2<c'2b/2a/2 | g2zg c'2 d'2 | ba/2g/2 a2 g4- | g8 |]
 X:245
 T:J'ay veu la beaulté, m'amye (Chanson 20)
 S:from bay20.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=100
@@ -6728,8 +6234,6 @@ C2 D2 C2zC | F2 G2 A3G | FE/2D/2 E2 D4 |]
 X:246
 T:Je suis entré en nouvelIe pensée (Chanson 23)
 S:from bay23.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -6758,9 +6262,6 @@ c2 B2 A4 | A4 B4 | A4 G2z2 | c4 A2 G2 | F4 F4 |]
 X:247
 T: L'amour de moy
 T: Manuscript de Bayeux
-R:Chanson
-Z:Transcrit et/ou corrigé par B@D - 2006-04-24
-Z:Pour toute observation mailto:-@- M: C K: G
 V: 1
 L: 1/4
 d2 d d|G3 G|B2 e2|d3 c|BA/G/ AA|G4|
@@ -6782,8 +6283,6 @@ ce/f/ g/e/ g/a/|b/d/ G/B/ A/B/ c/A/|B A/G/ A/G/ A/F/|[1 G/F/ G/A/ B/A/ B/c/ :| [
 
 X:248
 T:Le bon espoir que mon cueur a (Chanson 5)
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -6806,8 +6305,6 @@ B8 | B4 B2 B2 | B4 B2 B2 | B4 B2 B2 | B4 B2 B2 | B8 |]
 
 X:249
 T:Le grant desir d'aymer my  tient (Chanson 25)
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 S:from bay25.MID
 M:4/4
 L:1/8
@@ -6828,8 +6325,6 @@ D2 D2 F2 E2 | D4 D4 |]
 
 X:250
 T:Le grant desir d'aymer my  tient (Chanson 25)
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 S:from bay25.MID
 M:4/4
 L:1/8
@@ -6850,11 +6345,6 @@ A2 A2 c2 B2 | A4 A4 |]
 
 X:251
 T:Mort d'Henri V
-C:Manuscript de Bayeux
-R:Chanson
-C:Arrangement : Michel Falèze
-Z:Transcrit et/ou corrigé par B@D - 2006-04-24
-Z:Pour toute observation mailto:-@- M:C L:1/8
 K:Bb
 V:1
 G2GG A2zA | cc cB A4 | d2dd c2AA | GF G=E D4 :| F2GG A2zA | c>B AF AG/F/ =E2 |
@@ -6876,11 +6366,6 @@ F,,4 B,,4 | G,,8 - |G,,8 |]
 
 X:252
 T:Mort d'Henri V
-C:Manuscript de Bayeux
-R:Chanson
-C:Arrangement : Michel Falèze
-Z:Transcrit et/ou corrigé par B@D - 2006-04-24
-Z:Pour toute observation mailto:-@- M:C L:1/8
 K:F
 V:1
 d2dd e2ze | gg gf e4 | a2aa g2ee | dc d=B A4 :| c2dd e2ze | g>f ec ed/c/ =B2 |
@@ -6903,8 +6388,6 @@ C,4 F,4 | D,8 - |D,8 |]
 X:253
 T:On doibt bien aymer l'oysellet (Chanson 12)
 S:from bay12.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -6930,8 +6413,6 @@ ee/2e/2 ee dd/2d/2 dc | BA/2G/2 AA GG/2G/2 GG | G4 |]
 X:254
 T:Or sus, or sus (Chanson 16)
 S:from bay16.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:C
 L:1/8
 Q:1/4=120
@@ -6950,8 +6431,6 @@ c4 B3/2A/2 AA | G2zg gf ef | g2 gf ec dd | c4 |]
 X:255
 T:Reconfortez le petit cueur de moy (Chanson 21)
 S:from bay21.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=100
@@ -6978,8 +6457,6 @@ c4 B2 A2 | G2 A2 B2 A2 | G8 |]
 X:256
 T:Royne des fleurs que je désire tant!  (Chanson 4)
 S:from bay4.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=104
@@ -7003,8 +6480,6 @@ C3B,/2A,/2 G,2 A,2 | B,3A, B,2zD | E3D CB,/2A,/2 B,2 | A,3/2B,<CB,/2 D4 |
 X:257
 T:Royne des flours (Chanson 14)
 S:from bay14.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=92
@@ -7029,8 +6504,6 @@ A4 c4 | G4 A4 | c2 B2 A4 |]
 X:258
 T:Royne des flours (Chanson 19)
 S:from bay19.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=92
@@ -7054,9 +6527,7 @@ C2 B,2 A,2z2 | A,2 C2 B,4 |]
 
 X:259
 T:Souvent je m'esbats (Chanson 7)
-C:Manuscript de Bayeux (fin XVe)
 S:from bay7.MID
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=120
@@ -7078,8 +6549,6 @@ z8 | z8 | z8 | z8 | g3/2a<ba/2 c'4 | Z4 |]
 X:260
 T:Vostre beaulté (Chanson 13)
 S:from bay13.MID
-C:Manuscript de Bayeux (fin XVe)
-R:Chanson
 M:4/4
 L:1/8
 Q:1/4=104
@@ -7112,7 +6581,6 @@ A2 c2 F2 G2 | F8 |]
 
 X:261
 T:Istanpitta Ghaeta
-C:Danses italiennes du XIVe siècle
 M:none
 Q:1/4=180
 K:C
@@ -7145,7 +6613,6 @@ d^cde d4 | B2d2B2d2 | c_Bcd c4 | G2c2_B2"_to Mark1" A2 |]
 
 X:262
 T:Istanpitta Ghaeta
-C:Danses italiennes du XIVe siècle
 M:none
 Q:1/4=180
 K:F
@@ -7351,8 +6818,6 @@ eddB cdce ABA2- AGAB | cdBc d2cd e^fe2- e2ed !D.C.!|]
 
 X:268
 T:Rocamadour
-R:Carole
-C:Restitution : Christophe Desligne
 M:none
 K:C
 P:Refrain
@@ -7376,8 +6841,6 @@ d2dc BAG2 c2c2 B2Bc d2dc BAG2 |1,3 c2c2 B4 :|2 c2c2d4 :|4 A2F2G4 |]
 
 X:269
 T:Rocamadour
-R:Carole
-C:Restitution : Christophe Desligne
 M:none
 K:F
 P:Refrain
@@ -7401,10 +6864,6 @@ g2gf edc2 f2f2 e2ef g2gf edc2 |1,3 f2f2 e4 :|2 f2f2g4 :|4 d2B2c4 |]
 
 X:270
 T:La légende des Compagnons de Roland
-C:
-C:
-C:Geoffroy de Rocquencourt
-C:An de grâce 2008 au printemps.
 K:
 
 
